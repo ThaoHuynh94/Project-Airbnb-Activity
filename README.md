@@ -44,6 +44,9 @@ python run.py
 http://127.0.0.1:5000
 
 ## Folder Structure
+
+```
+
 myApp/
 │
 ├── run.py
@@ -64,6 +67,7 @@ myApp/
         └── css/
             └── styles.css
 
+```
 ## Author
 
 Developed as part of a Flask Web Development Assignment
