@@ -10,7 +10,12 @@ This prototype includes several pages that demonstrate how Flask handles routing
 ### Features
 
 🏠 Home Page – basic landing page introducing the project.
+
+<p align="center">
+
 <img width="518" height="179" alt="image" src="https://github.com/user-attachments/assets/34f17ebd-dac4-4acb-a53b-a950ec518674" />
+
+</p>
 
 📋 Listings Grid – displays a list of mock data using Jinja2 templates.
 
