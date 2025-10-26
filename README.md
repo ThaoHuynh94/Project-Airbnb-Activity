@@ -31,16 +31,17 @@ CSS (basic styling)
 
 ## Run Instructions
 1. Clone the repo
-git clone https://github.com/yourusername/Project-Flask-WebApp-Prototype.git
+git clone https://github.com/ThaoHuynh94/Project-Airbnb-Activity.git
+
 cd Project-Flask-WebApp-Prototype
 
-2. Install Flask
+3. Install Flask
 pip install flask
 
-3. Run the app
+4. Run the app
 python run.py
 
-4. Open in your browser
+5. Open in your browser
 http://127.0.0.1:5000
 
 ## Folder Structure
