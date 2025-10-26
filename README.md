@@ -71,6 +71,8 @@ myApp/
 ## Author
 
 Developed as part of a Flask Web Development Assignment
+
 Author: Thao Huynh
+
 Date: October 25, 2025
 
